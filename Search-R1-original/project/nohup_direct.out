@@ -1,0 +1,6 @@
+激活 searchr1 环境...
+
+EnvironmentNameNotFound: Could not find conda environment: searchr1
+You can list all discoverable environments with `conda info --envs`.
+
+
